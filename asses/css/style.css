@@ -1,0 +1,29 @@
+/*estilo da página meteoro*/
+
+.center {
+    text-align:center;
+    }
+    
+#menu{
+display:flex;
+flex-flow: row;
+justify-content:flex-end;
+
+}
+.ocontainer{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+  
+    }
+
+    /*estilo da página contato*/
+
+
+    /*index*/
+    .container{
+        display:flex;
+        flex-flow: row ;
+        justify-content:center;
+        align-items:center;
+        }
